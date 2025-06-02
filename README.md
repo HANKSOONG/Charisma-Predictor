@@ -55,6 +55,7 @@ charisma-predictor/
 │   └── README.md
 ├── report_links/           # Final report (PDF)
 │   └── README.md
+├── LICENSE 
 ├── README.md               # You're reading it
 └── requirements.txt
 ```
