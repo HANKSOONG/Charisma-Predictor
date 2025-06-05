@@ -94,8 +94,8 @@ python train_fusion.py
 
 **Model Workflow Overview:**
 
-* 🎥 **Video:** MediaPipe landmark sequences → five-model ensemble (CNN, LSTM, GRU, Transformer, TCN)
-* 🔊 **Audio:** AST + Random Forest (team contribution)
-* 📑 **Text:** BERT-based personality estimation (team contribution)
-* ♻️ **Fusion:** Average, weighted, MCWF
-* 🧠 **Output:** Big Five scores → 0–1 charisma score → five-class suitability label
+*  **Video:** MediaPipe landmark sequences → five-model ensemble (CNN, LSTM, GRU, Transformer, TCN)
+*  **Audio:** AST + Random Forest (team contribution)
+*  **Text:** BERT-based personality estimation (team contribution)
+*  **Fusion:** Average, weighted, MCWF
+*  **Output:** Big Five scores → 0–1 charisma score → five-class suitability label
