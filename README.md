@@ -66,7 +66,6 @@ charisma-predictor/
 
 While this repo focuses on my implementation, the final fusion model also incorporated audio and text inputs from teammates:
 
-* 📄 [Full project report (PDF)](https://drive.google.com/file/d/1LQnHQryJfcT02PuWKHqSIbIRdy0jVY7T/view?usp=sharing)
 * 🔊 [Audio model (AST)](https://drive.google.com/drive/folders/1SoNqgf6J3f-QCa_LvFf0fSnW1xZLOgCV?usp=drive_link)
 * 📄 [Text model (BERT)](https://drive.google.com/drive/folders/1npBfmOsTbw5ziEsa_PnD_drb8xST2BSP?usp=drive_link)
 
