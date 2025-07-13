@@ -18,7 +18,7 @@ This repository contains the parts I personally developed: the **video model**, 
 
 ---
 
-## 📊 Sample Output
+##  Sample Output
 
 **Leadership Suitability Distribution:**
 
@@ -32,7 +32,7 @@ This repository contains the parts I personally developed: the **video model**, 
 
 ---
 
-## 👤 My Contribution
+##  My Contribution
 
 This repository reflects my direct contributions to the project:
 
@@ -43,7 +43,7 @@ This repository reflects my direct contributions to the project:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 charisma-predictor/
@@ -62,7 +62,7 @@ charisma-predictor/
 
 ---
 
-## 📅 Related Work by Team Members
+##  Related Work by Team Members
 
 While this repo focuses on my implementation, the final fusion model also incorporated audio and text inputs from teammates:
 
@@ -71,7 +71,7 @@ While this repo focuses on my implementation, the final fusion model also incorp
 
 ---
 
-## 🛠️ Run the Fusion Module
+##  Run the Fusion Module
 
 This repository includes the training code for the fusion model. To train the Multi-Channel Weighted Fusion (MCWF) model:
 
@@ -83,13 +83,13 @@ python train_fusion.py
 
 ---
 
-## 🗋 Dataset
+##  Dataset
 
 * [First Impressions Dataset](https://chalearnlap.cvc.uab.cat/dataset/20/description/) – 10,000 annotated video clips
 
 ---
 
-## 🤓 Methodology Summary
+##  Methodology Summary
 
 **Model Workflow Overview:**
 
